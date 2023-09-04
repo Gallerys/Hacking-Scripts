@@ -3,15 +3,7 @@
 
 cat  <<  EOF 
 
-  __________  __    _____   ____ __
- /_  __/ __ \/ /   /  _/ | / / //_/
-  / / / /_/ / /    / //  |/ / ,<   
- / / / ____/ /____/ // /|  / /| |  
-/_/ /_/   /_____/___/_/ |_/_/ |_|  
-
-V2/V3  Driver Compile & Install on Kali Linux
-YouTube : https://www.youtube.com/mehedishakeel
-Developed By : Mehedi Shakeel
+Code is the Hack
                                                                  
 EOF
 
