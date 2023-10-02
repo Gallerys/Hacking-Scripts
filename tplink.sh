@@ -1,6 +1,4 @@
 #!/bin/bash
-
-
 cat  <<  EOF 
 
 Code is the Hack
